@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **leobardonm/leobardonm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## GitHub stats
+## 📊 GitHub stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leobardonm&show_icons=true&theme=dark)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leobardonm&layout=compact&theme=dark)
+
+<!-- ## Hi there 👋>
